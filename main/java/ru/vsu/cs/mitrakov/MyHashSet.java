@@ -23,11 +23,6 @@ public class MyHashSet<T> extends AbstractSet<T> implements Set<T> {
     }
 
 
-//    Конструктор, который мне предложила Идея
-//    public MyHashSet(HashMap map) {
-//        this.map = map;
-//    }
-
 
     @Override
     public int size() {
